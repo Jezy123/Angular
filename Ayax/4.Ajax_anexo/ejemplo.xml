@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<football_player>
+<player>
+  <name>Cristiano Ronaldo</name>
+  <club>Real Madrid</club>
+  <number>7</number>
+  <country>Portugal </country>
+</player>
+<player>
+  <name>Fernando Torres </name>
+  <club>Chelsea </club>
+  <number>9</number>
+  <country>Spain</country>
+</player>
+<player>
+  <name>Iker Casillas</name>
+  <club>Real Madrid </club>
+  <number>1</number>
+  <country>Spain</country>
+</player>
+<player>
+  <name>David Beckham</name>
+  <club>Los Angeles Galaxy</club>
+  <number>23</number>
+  <country>England</country>
+</player>
+</football_player>
